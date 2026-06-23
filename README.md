@@ -15,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
