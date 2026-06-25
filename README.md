@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
 |  |
 | ------- |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
+## Greedy
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
