@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -204,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
