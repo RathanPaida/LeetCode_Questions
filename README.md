@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0053-maximum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
