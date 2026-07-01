@@ -1,26 +1,19 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        unordered_map<char, char> charMap;
+        vector<int> m1(256, -1);
+        vector<int> m2(256, -1);
 
-        for (int i = 0; i < s.length(); ++i) {
-            char sc = s[i];
-            char tc = t[i];
-
-            if (charMap.count(sc)) {
-                if (charMap[sc] != tc) {
-                    return false;
-                }
-            } else {
-                for (auto& pair : charMap) {
-                    if (pair.second == tc) {
-                        return false;
-                    }
-                }
-                charMap[sc] = tc;
+        for (int i = 0; i < s.size(); i++) {
+            if (m1[s[i]] == -1 && m2[t[i]] == -1) {
+                m1[s[i]] = t[i];
+                m2[t[i]] = s[i];
+            }
+            else if (m1[s[i]] != t[i] || m2[t[i]] != s[i]) {
+                return false;
             }
         }
 
-        return true;        
+        return true;
     }
 };
