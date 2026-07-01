@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0242-valid-anagram) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0205-isomorphic-strings) |
