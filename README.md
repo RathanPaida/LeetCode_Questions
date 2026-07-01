@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Enumeration
 |  |
@@ -216,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
