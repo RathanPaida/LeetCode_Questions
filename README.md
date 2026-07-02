@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Design
 |  |
