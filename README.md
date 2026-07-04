@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0242-valid-anagram) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0225-implement-stack-using-queues) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
