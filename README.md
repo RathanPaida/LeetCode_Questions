@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -220,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
