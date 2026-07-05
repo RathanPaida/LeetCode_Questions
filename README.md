@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0494-target-sum) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
@@ -343,4 +346,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
