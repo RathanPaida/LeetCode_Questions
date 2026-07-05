@@ -1,37 +1,23 @@
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& heights) {
-        int n=heights.size();
-        vector<int> ls(n,-1);
-        vector<int> rs(n,n);
-        stack<int> st;
-        for(int i=0;i<n;i++){
-            while(!st.empty()&&heights[st.top()]>=heights[i]){
-                st.pop();
-            }
-            if(!st.empty()){
-                ls[i]=st.top();
-            }
-            st.push(i);
-        }
-        while(!st.empty()){
-            st.pop();
-        }
-        for(int i=n-1;i>=0;i--){
-            while(!st.empty()&&heights[st.top()]>=heights[i]){
-                st.pop();
-            }
-            if(!st.empty()){
-                rs[i]=st.top();
+    int largestRectangleArea(vector<int>& histo) {
+        stack<int> st; 
+        int maxA = 0; 
+        int n = histo.size();
+        for (int i = 0; i <= n; i++) {
+            while (!st.empty() && (i == n || histo[st.top()] >= histo[i])) {
+                int height = histo[st.top()];
+                st.pop(); 
+                int width;
+                if (st.empty()) {
+                    width = i; 
+                } else {
+                    width = i - st.top() - 1; 
+                }
+                maxA = max(maxA, width * height);
             }
             st.push(i);
         }
-        int ans=0;
-        for(int i=0;i<n;i++){
-            int t=rs[i]-ls[i]-1;
-            ans=max(ans,t*heights[i]);
-        }
-        return ans;
-
+        return maxA;
     }
 };
