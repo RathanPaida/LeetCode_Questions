@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0118-pascals-triangle) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0494-target-sum) |
 ## Queue
 |  |
@@ -374,5 +376,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0078-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
