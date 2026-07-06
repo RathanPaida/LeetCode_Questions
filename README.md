@@ -371,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
