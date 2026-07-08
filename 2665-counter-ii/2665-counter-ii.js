@@ -3,7 +3,7 @@
  * @return { increment: Function, decrement: Function, reset: Function }
  */
 var createCounter = function(init) {
-    const n=init;
+    let n=init;
     return{
         increment: function(){
             return ++init;
