@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0078-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
