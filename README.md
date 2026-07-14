@@ -420,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
