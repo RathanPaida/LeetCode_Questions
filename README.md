@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1027-longest-arithmetic-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0845-longest-mountain-in-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1027-longest-arithmetic-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1301-number-of-paths-with-max-score](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1539-kth-missing-positive-number) |
