@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
