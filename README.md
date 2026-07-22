@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0518-coin-change-ii) |
