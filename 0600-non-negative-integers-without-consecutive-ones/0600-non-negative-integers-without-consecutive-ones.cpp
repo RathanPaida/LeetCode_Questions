@@ -9,7 +9,7 @@ public:
         }
         int ans = 0;
         int prev_bit = 0;
-        for (int i = 31; i >= 0; --i) {
+        for (int i = 30; i >= 0; --i) {
             if ((n & (1 << i)) != 0) {
                 ans += f[i];
                 if (prev_bit == 1) {
