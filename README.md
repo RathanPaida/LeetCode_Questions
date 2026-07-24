@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1301-number-of-paths-with-max-score](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3620-network-recovery-pathways) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
