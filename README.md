@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1192-critical-connections-in-a-network) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
