@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3620-network-recovery-pathways) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
