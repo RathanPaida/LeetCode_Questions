@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0735-asteroid-collision) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1048-longest-string-chain) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -428,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
