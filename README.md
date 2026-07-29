@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
@@ -170,11 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0053-maximum-subarray) |
+| [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0621-task-scheduler) |
@@ -493,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Topological Sort
 |  |
@@ -569,4 +575,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
