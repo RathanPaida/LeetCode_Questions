@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
