@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
