@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2402-meeting-rooms-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Game Theory
 |  |
 | ------- |
