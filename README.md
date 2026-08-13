@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2402-meeting-rooms-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2402-meeting-rooms-iii) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
 |  |
 | ------- |
