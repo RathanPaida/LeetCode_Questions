@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0403-frog-jump](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0403-frog-jump) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0403-frog-jump) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0721-accounts-merge) |
@@ -675,4 +678,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
