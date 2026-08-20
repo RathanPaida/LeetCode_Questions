@@ -12,10 +12,9 @@ public:
                 a2.push_back(nums[i]);
             }
         }
-        vector<int> ans=a1;
         for(int i:a2){
-            ans.push_back(i);
+            a1.push_back(i);
         }
-        return ans;
+        return a1;
     }
 };
