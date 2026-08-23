@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2029-stone-game-ix) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1927-sum-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
