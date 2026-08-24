@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1872-stone-game-viii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1872-stone-game-viii) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1872-stone-game-viii) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2029-stone-game-ix) |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -675,12 +680,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
