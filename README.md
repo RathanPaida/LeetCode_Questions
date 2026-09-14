@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
+| [0836-rectangle-overlap](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
@@ -738,4 +739,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
