@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1872-stone-game-viii) |
@@ -748,4 +749,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
