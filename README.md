@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0686-repeated-string-match) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0494-target-sum) |
 ## Queue
 |  |
