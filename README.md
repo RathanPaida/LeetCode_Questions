@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2402-meeting-rooms-iii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2402-meeting-rooms-iii) |
 | [2488-count-subarrays-with-median-k](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2488-count-subarrays-with-median-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/RathanPaida/LeetCode_Questions/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/RathanPaida/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RathanPaida/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RathanPaida/LeetCode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
